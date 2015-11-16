@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "net.qiujuer.genius.sample"
-        minSdkVersion 21
+        minSdkVersion 19
         targetSdkVersion 22
         versionCode 23
         versionName "2.3"

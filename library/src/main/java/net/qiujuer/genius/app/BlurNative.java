@@ -51,6 +51,6 @@ class BlurNative {
      * Load genius jni file
      */
     static {
-        System.loadLibrary("genius");
+        System.loadLibrary("BlurNative");
     }
 }
